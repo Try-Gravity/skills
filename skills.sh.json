@@ -1,0 +1,15 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Gravity for publishers",
+      "description": "Set up Gravity ads, improve your signals, audit your integration, and understand your earnings.",
+      "skills": [
+        "publisher-setup",
+        "improve-signals",
+        "optimize-ad-integration",
+        "analyze-earnings"
+      ]
+    }
+  ]
+}
